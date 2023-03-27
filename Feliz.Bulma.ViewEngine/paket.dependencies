@@ -6,5 +6,5 @@ group Main
     storage: none
     framework: netstandard2.0
 
-    nuget FSharp.Core ~> 4.7 lowest_matching: true
+    nuget FSharp.Core
     nuget Feliz.ViewEngine >= 0.15
